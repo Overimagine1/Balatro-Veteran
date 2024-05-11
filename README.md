@@ -1,6 +1,6 @@
 # Veteran
 
-Replaces Drivers License with JPEGMAFIA's drivers license from the Veteran Bandcamp cover
+Replaces Drivers License with JPEGMAFIA's drivers license from the Veteran Bandcamp cover.
 
 ## Installation
 - Install [Steamodded](https://github.com/Steamopollys/Steamodded?tab=readme-ov-file#installation)
